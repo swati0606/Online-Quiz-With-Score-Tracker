@@ -14,6 +14,16 @@ const quizData = [
     answers: ["Java", "C", "Python", "JavaScript"],
     correct: 3
   }
+  {
+  question: "Which planet is known as the Red Planet?",
+  answers: ["Earth", "Mars", "Venus", "Jupiter"],
+  correct: 1
+  }
+ {
+  question: "What is the largest mammal?",
+answers: ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+correct: 1
+  }
 ];
 
 let currentQuiz = 0;
